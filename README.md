@@ -1,7 +1,7 @@
 # SQLAlchemy-Paginatioin
 The pagination implementation for SQLAlchemy (Python3)
 
-example for use:
+example of use:
 
 ```
 query = session.query(cls)
